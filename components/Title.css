@@ -1,0 +1,14 @@
+.titles {
+  background: #f9d423;
+  height: 150px;
+}
+
+.title {
+  font-size: 50px;
+  padding-top: 15px;
+  margin-bottom: -15px;
+}
+
+.subtitle {
+  margin-bottom: 15px;
+}

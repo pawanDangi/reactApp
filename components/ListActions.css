@@ -1,0 +1,39 @@
+.clear {
+  margin-top: 15px;
+  margin-right: 8px;
+  font-size: 25px;
+  padding: 10px;
+  background: #f9d423;
+  margin-bottom: 20px;
+}
+
+.clear:hover, .reset:hover {
+  cursor: pointer;
+  background: #1F2124;
+  color: #1ec0ff;
+}
+
+.reset {
+  margin-top: 15px;
+  margin-left: 8px;
+  font-size: 25px;
+  padding: 10px;
+  background: #f9d423;
+  margin-bottom: 20px;
+}
+
+.reset:hover {
+  cursor: pointer;
+  background: #1F2124;
+  color: #1ec0ff;
+}
+
+button {
+  font-size: 18px;
+  border-radius: 3px;
+  border: none;
+}
+
+button:active, button:focus {
+  outline: none;
+}

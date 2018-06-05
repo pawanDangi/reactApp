@@ -1,0 +1,46 @@
+[
+  {
+    "key": 0,
+    "value": "Learn React"
+  },
+  {
+    "key": 1,
+    "value": "Finish Redux Tutorials"
+  },
+  {
+    "key": 2,
+    "value": "Learn more about Relay"
+  },
+  {
+    "key": 3,
+    "value": "Build 5 more React apps"
+  },
+  {
+    "key": 4,
+    "value": "Review React Component Lifecycle"
+  },
+  {
+    "key": 5,
+    "value": "Obtain Data Visualization Certificate"
+  },
+  {
+    "key": 6,
+    "value": "Review Algorithms"
+  },
+  {
+    "key": 7,
+    "value": "Tweet Progress"
+  },
+  {
+    "key": 8,
+    "value": "Get a coffee!"
+  },
+  {
+    "key": 9,
+    "value": "Browse Google Fonts"
+  },
+  {
+    "key": 10,
+    "value": "Learn more about React Native"
+  }
+]

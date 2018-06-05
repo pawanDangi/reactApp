@@ -1,0 +1,8 @@
+.app {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background: #3a538e;
+  min-width: 600px;
+  box-shadow: 10px 10px 5px #0f0f0f;
+  border-radius: 5px;
+}

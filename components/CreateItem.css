@@ -1,0 +1,32 @@
+.newTask {
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+input {
+  padding: 7px;
+  text-align: center;
+  background: #1F2124;
+  border: none;
+  border-radius: 2px;
+  color: #03E1A4;
+}
+
+.enter {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: #1ec0ff;
+  font-size: 25px;
+  padding: 8px;
+}
+
+button {
+  font-size: 18px;
+  border-radius: 3px;
+  border: none;
+}
+
+.error {
+  color: red;
+  font-size: 15px;
+}
